@@ -1,0 +1,2 @@
+# Ignore build artifacts from the target directory from rust builds
+target/
